@@ -153,3 +153,7 @@ GPD vydavkov = GDP prijmov
 ![alt text](images/image-29.png)
 
 ![alt text](images/image-30.png)
+
+# Priklady cvičenie
+
+je to v zošite
