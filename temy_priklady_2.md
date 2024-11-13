@@ -52,6 +52,7 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 
 ## rozpočtové ohraničenie spotrebiteľa
 ![alt text](images/image-58.png)
+![alt text](images/image-x.png)
 ![alt text](images/image-80.png)
 
 ## indiferenčné krivky
