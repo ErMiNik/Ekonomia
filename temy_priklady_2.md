@@ -47,12 +47,12 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 ![alt text](images/image-71.png)
 ![alt text](images/image-72.png)
 
-![alt text](images/image-69.png)
-![alt text](images/image-83.png)
+![alt text](images/image-115.png)
+![alt text](images/image-118.png)
 
 ## rozpočtové ohraničenie spotrebiteľa
 ![alt text](images/image-58.png)
-![alt text](images/image-x.png)
+![alt text](image-1.png)
 ![alt text](images/image-80.png)
 
 ## indiferenčné krivky
@@ -60,6 +60,7 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 - Indiferenčné krivky sa nepretínajú
 - Indiferenčná mapa je hustá
 - Záporný sklon
+
 ![alt text](images/image-56.png)
 ![alt text](images/image-57.png)
 ![alt text](images/image-81.png)
@@ -69,8 +70,13 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 - vyuziva taku strategiu aku si moze dovolit
 
 ![alt text](images/image-60.png)
-![alt text](images/image-61.png)
+
+![alt text](images/image-43.png)
+
 ![alt text](images/image-62.png)
+
+![alt text](images/image-61.png)
+
 ![alt text](images/image-82.png)
 
 ## produkčná analýza s jedným variabilným faktorom
@@ -79,11 +85,37 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 - Priemerný produkt variabilného vstupu (AP)
 
 ![alt text](images/image-84.png)
+### toto je asi s dvomi ale pristotu to tu vypocitam
 ![alt text](images/image-92.png)
 
-## nákladovové krivy
-???????
+## nákladové krivky (toto radsej skip strasne je vela teorie a ziadne priklady)
+- TC = FC + VC
+    - TC = celkove naklady
+    - FC = fixne naklady
+    - VC = variabilne naklady
+- AC = TC / Q
+    - AC = Priemerne naklady
+    - Q = mnozstvo produkcie
+- MC = ΔTC / ΔQ
+    - MC = hranicne naklady
+
+![alt text](images/image-119.png)
+
+1. Krivka priemerných nákladov (AC) a priemerných variabilných nákladov (AVC) má tvar písmena "U".
+2. Krivka hraničných nákladov (MC) pretína krivku AC a AVC v ich minimálnych bodoch.
+
+
+![alt text](images/image-121.png)
+
+![alt text](images/image-122.png)
+
+![alt text](images/image-120.png)
+
+
+
+
 
 ## minimalizácia nákladov
 ![alt text](images/image-89.png)
 ![alt text](images/image-111.png)
+![alt text](images/image-123.png)
