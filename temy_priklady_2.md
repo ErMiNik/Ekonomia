@@ -17,7 +17,9 @@ hovoriť o zmene dopytu a teda dochádza k posunu celej dopytovej krivky
 posun po dopytovej krivke.
 
 ![alt text](images/image-106.png)
+
 ![alt text](images/image-108.png)
+
 ![alt text](images/image-107.png)
 
 ### Ponuka
@@ -33,27 +35,47 @@ statku budeme hovoriť o zmene ponuky – posun krivky ponuky
 ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva. 
 
 ![alt text](images/image-109.png)
+
 ![alt text](images/image-112.png)
+
 ![alt text](images/image-114.png)
 
 ## rovnováha na trhu
 ![alt text](images/image-104.png)
+
 ![alt text](images/image-64.png)
+
+![alt text](images/image-95.png)
+
 ![alt text](images/image-105.png)
+
 ![alt text](images/image-110.png)
+
+![alt text](images/image-126.png)
 
 ## elasticita dopytu
 ![alt text](images/image-70.png)
+
 ![alt text](images/image-71.png)
+
 ![alt text](images/image-72.png)
 
 ![alt text](images/image-115.png)
+
+![alt text](images/image-99.png)
+
 ![alt text](images/image-118.png)
+
+![alt text](images/image-101.png)
 
 ## rozpočtové ohraničenie spotrebiteľa
 ![alt text](images/image-58.png)
+
 ![alt text](image-1.png)
+
 ![alt text](images/image-80.png)
+
+![alt text](images/image-96.png)
 
 ## indiferenčné krivky
 ### Vlastnosti
@@ -62,7 +84,9 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 - Záporný sklon
 
 ![alt text](images/image-56.png)
+
 ![alt text](images/image-57.png)
+
 ![alt text](images/image-81.png)
 
 ## rovnováha spotrebiteľa
@@ -79,14 +103,16 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 
 ![alt text](images/image-82.png)
 
+![alt text](images/image-100.png)
+
 ## produkčná analýza s jedným variabilným faktorom
 - Celkový produkt variabilného vstupu (TP)
 - Marginálny (hraničný) produkt variabilného vstupu (MP)
 - Priemerný produkt variabilného vstupu (AP)
 
 ![alt text](images/image-84.png)
-### toto je asi s dvomi ale pristotu to tu vypocitam
-![alt text](images/image-92.png)
+
+![alt text](images/image-102.png)
 
 ## nákladové krivky (toto radsej skip strasne je vela teorie a ziadne priklady)
 - TC = FC + VC
@@ -117,5 +143,9 @@ ceny vyvolá posun po krivke ponuky a poôjde o zmenu ponúkaného množstva.
 
 ## minimalizácia nákladov
 ![alt text](images/image-89.png)
+
 ![alt text](images/image-111.png)
+
 ![alt text](images/image-123.png)
+
+![alt text](images/image-127.png)
